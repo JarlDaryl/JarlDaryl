@@ -10,6 +10,6 @@ GitHub Profile Summary Cards:
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarlDaryl&theme=vue)
 
 GitHub Activity Graph:
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JarlDaryl&theme=react-dark)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuisArques&theme=react-dark)
 
 
