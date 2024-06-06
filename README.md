@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**JarlDaryl/JarlDaryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub Readme Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JarlDaryl&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+GitHub Readme Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JarlDaryl&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub Profile Summary Cards:
+![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarlDaryl&theme=vue)
+
+GitHub Activity Graph:
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JarlDaryl&theme=react-dark)
+
