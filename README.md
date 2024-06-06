@@ -4,5 +4,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarlDaryl&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JarlDaryl&theme=dark)
 ![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarlDaryl&theme=vue)
-![GitHub Contributions](https://github-contributions.vercel.app/graph?username=JarlDaryl&theme=react-dark)
+![GitHub Contributions](https://github-contributions.vercel.app/api/v1/JarlDaryl)
 
